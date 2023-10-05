@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React-js**
 
-- 💬 Ask me about **Java, HTML and CSS**
+- 💬 Ask me about **Java, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **Gagantiwari370@gmail.com**
 
