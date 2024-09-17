@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Tiwari</h1>
-<h3 align="center">A Passionate Computer Engineering Student | Front-End Developer.</h3>
+<h3 align="center">A Passionate Web Developer, Tech-Enthusiast | Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagantiwari&label=Profile%20views&color=0e75b6&style=flat" alt="gagantiwari" /> </p>
 
